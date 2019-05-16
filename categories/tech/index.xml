@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech - Home</title>
+    <link>https://yus3554.github.io/categories/tech/</link>
+    <description>Recent content in Tech on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 17 May 2019 01:40:33 +0900</lastBuildDate>
+    
+        <atom:link href="https://yus3554.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ブログ始めました</title>
+      <link>https://yus3554.github.io/posts/firstpost/</link>
+      <pubDate>Fri, 17 May 2019 01:40:33 +0900</pubDate>
+      
+      <guid>https://yus3554.github.io/posts/firstpost/</guid>
+      <description>Hugoを使ってブログ立ち上げてみた</description>
+    </item>
+  </channel>
+</rss>
