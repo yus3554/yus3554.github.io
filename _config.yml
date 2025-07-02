@@ -1,0 +1,59 @@
+# Site settings
+title: Yusuke Ota (太田 悠介)
+email: yus3554@gmail.com
+url: https://github.com/yus3554
+description: "Yusuke Ota's portfolio site for IT Engineer, Technical Artist, and Developer."
+keywords: "portfolio, engineer, developer, technical artist, yusuke ota, yus3554"
+skills: "IT Engineer - Technical Artist"
+meta_author: Yusuke Ota
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Yusuke Ota
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  - title: github
+    url: http://github.com/yus3554
+  - title: linkedin
+    url: http://www.linkedin.com/in/yusuke-ota-3a2729218
+
+# Postal address (add as many lines as necessary)
+address: []
+
+# Credits content
+credits: ''
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
