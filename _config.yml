@@ -1,11 +1,11 @@
 # Site settings
-title: Yusuke Ota (太田 悠介)
+title: yus3554
 email: yus3554@gmail.com
 url: https://github.com/yus3554
-description: "Yusuke Ota's portfolio site for IT Engineer, Technical Artist, and Developer."
-keywords: "portfolio, engineer, developer, technical artist, yusuke ota, yus3554"
+description: "yus3554's portfolio site for IT Engineer, Technical Artist, and Developer."
+keywords: "portfolio, engineer, developer, technical artist, yus3554, yus3554"
 skills: "IT Engineer - Technical Artist"
-meta_author: Yusuke Ota
+meta_author: yus3554
 
 # Google webmaster tools
 google_verify:
@@ -28,7 +28,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Yusuke Ota
+  copyright: yus3554
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
